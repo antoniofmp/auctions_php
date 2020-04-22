@@ -1,0 +1,1135 @@
+2015/12/11 14:12:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=72&j=572&numIteraciones=200
+---
+2015/12/11 14:12:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=72&j=572&numIteraciones=200
+---
+2015/12/11 14:12:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=73&j=573&numIteraciones=200
+---
+2015/12/11 14:12:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=73&j=573&numIteraciones=200
+---
+2015/12/11 14:12:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=73&j=573&numIteraciones=200
+---
+2015/12/11 14:12:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=73&j=573&numIteraciones=200
+---
+2015/12/11 14:12:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=73&j=573&numIteraciones=200
+---
+2015/12/11 14:12:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=74&j=574&numIteraciones=200
+---
+2015/12/11 14:12:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=74&j=574&numIteraciones=200
+---
+2015/12/11 14:12:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=74&j=574&numIteraciones=200
+---
+2015/12/11 14:12:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=74&j=574&numIteraciones=200
+---
+2015/12/11 14:12:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=74&j=574&numIteraciones=200
+---
+2015/12/11 14:12:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=75&j=575&numIteraciones=200
+---
+2015/12/11 14:12:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=75&j=575&numIteraciones=200
+---
+2015/12/11 14:12:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=75&j=575&numIteraciones=200
+---
+2015/12/11 14:12:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=75&j=575&numIteraciones=200
+---
+2015/12/11 14:12:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=75&j=575&numIteraciones=200
+---
+2015/12/11 14:12:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=76&j=576&numIteraciones=200
+---
+2015/12/11 14:12:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=76&j=576&numIteraciones=200
+---
+2015/12/11 14:12:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=76&j=576&numIteraciones=200
+---
+2015/12/11 14:12:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=76&j=576&numIteraciones=200
+---
+2015/12/11 14:12:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=76&j=576&numIteraciones=200
+---
+2015/12/11 14:12:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=77&j=577&numIteraciones=200
+---
+2015/12/11 14:12:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=77&j=577&numIteraciones=200
+---
+2015/12/11 14:12:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=77&j=577&numIteraciones=200
+---
+2015/12/11 14:12:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=77&j=577&numIteraciones=200
+---
+2015/12/11 14:13:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=77&j=577&numIteraciones=200
+---
+2015/12/11 14:13:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=78&j=578&numIteraciones=200
+---
+2015/12/11 14:13:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=78&j=578&numIteraciones=200
+---
+2015/12/11 14:13:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=78&j=578&numIteraciones=200
+---
+2015/12/11 14:13:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=78&j=578&numIteraciones=200
+---
+2015/12/11 14:13:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=78&j=578&numIteraciones=200
+---
+2015/12/11 14:13:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=79&j=579&numIteraciones=200
+---
+2015/12/11 14:13:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=79&j=579&numIteraciones=200
+---
+2015/12/11 14:13:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=79&j=579&numIteraciones=200
+---
+2015/12/11 14:13:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=79&j=579&numIteraciones=200
+---
+2015/12/11 14:13:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=79&j=579&numIteraciones=200
+---
+2015/12/11 14:13:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=79&j=579&numIteraciones=200
+---
+2015/12/11 14:13:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=79&j=579&numIteraciones=200
+---
+2015/12/11 14:13:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=79&j=579&numIteraciones=200
+---
+2015/12/11 14:13:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=79&j=579&numIteraciones=200
+---
+2015/12/11 14:13:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=79&j=579&numIteraciones=200
+---
+2015/12/11 14:13:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=80&j=580&numIteraciones=200
+---
+2015/12/11 14:13:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=80&j=580&numIteraciones=200
+---
+2015/12/11 14:13:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=80&j=580&numIteraciones=200
+---
+2015/12/11 14:13:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=80&j=580&numIteraciones=200
+---
+2015/12/11 14:13:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=80&j=580&numIteraciones=200
+---
+2015/12/11 14:13:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=81&j=581&numIteraciones=200
+---
+2015/12/11 14:13:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=81&j=581&numIteraciones=200
+---
+2015/12/11 14:13:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=81&j=581&numIteraciones=200
+---
+2015/12/11 14:13:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=81&j=581&numIteraciones=200
+---
+2015/12/11 14:13:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=81&j=581&numIteraciones=200
+---
+2015/12/11 14:13:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=82&j=582&numIteraciones=200
+---
+2015/12/11 14:13:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=82&j=582&numIteraciones=200
+---
+2015/12/11 14:13:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=82&j=582&numIteraciones=200
+---
+2015/12/11 14:13:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=82&j=582&numIteraciones=200
+---
+2015/12/11 14:13:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=82&j=582&numIteraciones=200
+---
+2015/12/11 14:13:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=83&j=583&numIteraciones=200
+---
+2015/12/11 14:13:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=83&j=583&numIteraciones=200
+---
+2015/12/11 14:13:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=83&j=583&numIteraciones=200
+---
+2015/12/11 14:13:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=83&j=583&numIteraciones=200
+---
+2015/12/11 14:13:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=83&j=583&numIteraciones=200
+---
+2015/12/11 14:13:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=84&j=584&numIteraciones=200
+---
+2015/12/11 14:13:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=84&j=584&numIteraciones=200
+---
+2015/12/11 14:13:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=84&j=584&numIteraciones=200
+---
+2015/12/11 14:13:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=84&j=584&numIteraciones=200
+---
+2015/12/11 14:13:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=84&j=584&numIteraciones=200
+---
+2015/12/11 14:13:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=84&j=584&numIteraciones=200
+---
+2015/12/11 14:13:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=84&j=584&numIteraciones=200
+---
+2015/12/11 14:13:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=84&j=584&numIteraciones=200
+---
+2015/12/11 14:13:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=84&j=584&numIteraciones=200
+---
+2015/12/11 14:13:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=84&j=584&numIteraciones=200
+---
+2015/12/11 14:14:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=85&j=585&numIteraciones=200
+---
+2015/12/11 14:14:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=85&j=585&numIteraciones=200
+---
+2015/12/11 14:14:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=85&j=585&numIteraciones=200
+---
+2015/12/11 14:14:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=85&j=585&numIteraciones=200
+---
+2015/12/11 14:14:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=85&j=585&numIteraciones=200
+---
+2015/12/11 14:14:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=86&j=586&numIteraciones=200
+---
+2015/12/11 14:14:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=86&j=586&numIteraciones=200
+---
+2015/12/11 14:14:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=86&j=586&numIteraciones=200
+---
+2015/12/11 14:14:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=86&j=586&numIteraciones=200
+---
+2015/12/11 14:14:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=86&j=586&numIteraciones=200
+---
+2015/12/11 14:14:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=87&j=587&numIteraciones=200
+---
+2015/12/11 14:14:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=87&j=587&numIteraciones=200
+---
+2015/12/11 14:14:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=87&j=587&numIteraciones=200
+---
+2015/12/11 14:14:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=87&j=587&numIteraciones=200
+---
+2015/12/11 14:14:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=87&j=587&numIteraciones=200
+---
+2015/12/11 14:14:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=88&j=588&numIteraciones=200
+---
+2015/12/11 14:14:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=88&j=588&numIteraciones=200
+---
+2015/12/11 14:14:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=88&j=588&numIteraciones=200
+---
+2015/12/11 14:14:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=88&j=588&numIteraciones=200
+---
+2015/12/11 14:14:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutarExec?i=88&j=588&numIteraciones=200
+---
+2015/12/11 14:14:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutar1?i=88&j=588&numIteraciones=200&ident=SUB-JA-2015-588&tas=111.563,10%20%E2%82%AC%20%20%20%20%20%20%20&cantRecl=58.168,60%20%E2%82%AC%20%20%20%20%20%20%20&fechaFin=%20%20%20%20%20%20%20%20%2016-12-2015%2000:00:00
+---
+2015/12/11 14:14:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutar1?i=88&j=588&numIteraciones=200&ident=SUB-JA-2015-588&tas=111.563,10%20%E2%82%AC%20%20%20%20%20%20%20&cantRecl=58.168,60%20%E2%82%AC%20%20%20%20%20%20%20&fechaFin=%20%20%20%20%20%20%20%20%2016-12-2015%2000:00:00
+---
+2015/12/11 14:14:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutar1?i=88&j=588&numIteraciones=200&ident=SUB-JA-2015-588&tas=111.563,10%20%E2%82%AC%20%20%20%20%20%20%20&cantRecl=58.168,60%20%E2%82%AC%20%20%20%20%20%20%20&fechaFin=%20%20%20%20%20%20%20%20%2016-12-2015%2000:00:00
+---
+2015/12/11 14:14:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutar1?i=88&j=588&numIteraciones=200&ident=SUB-JA-2015-588&tas=111.563,10%20%E2%82%AC%20%20%20%20%20%20%20&cantRecl=58.168,60%20%E2%82%AC%20%20%20%20%20%20%20&fechaFin=%20%20%20%20%20%20%20%20%2016-12-2015%2000:00:00
+---
+2015/12/11 14:14:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutar1?i=88&j=588&numIteraciones=200&ident=SUB-JA-2015-588&tas=111.563,10%20%E2%82%AC%20%20%20%20%20%20%20&cantRecl=58.168,60%20%E2%82%AC%20%20%20%20%20%20%20&fechaFin=%20%20%20%20%20%20%20%20%2016-12-2015%2000:00:00
+---
+2015/12/11 14:17:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutar2?id=113&i=88&j=588&numIteraciones=200&dir=PZ%20EXPO%206%206%20%20%20;%2050018%20ZARAGOZA
+---
+2015/12/11 14:17:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutar2?id=113&i=88&j=588&numIteraciones=200&dir=PZ%20EXPO%206%206%20%20%20;%2050018%20ZARAGOZA
+---
+2015/12/11 14:17:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutar2?id=113&i=88&j=588&numIteraciones=200&dir=PZ%20EXPO%206%206%20%20%20;%2050018%20ZARAGOZA
+---
+2015/12/11 14:17:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutar2?id=113&i=88&j=588&numIteraciones=200&dir=PZ%20EXPO%206%206%20%20%20;%2050018%20ZARAGOZA
+---
+2015/12/11 14:17:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutar2?id=113&i=88&j=588&numIteraciones=200&dir=PZ%20EXPO%206%206%20%20%20;%2050018%20ZARAGOZA
+---
+2015/12/11 14:19:16 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[42000] [1226] User 'u989698732_subs' has exceeded the 'max_user_connections' resource (current value: 3)' in /home/u989698732/public_html/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /home/u989698732/public_html/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /home/u989698732/public_html/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /home/u989698732/public_html/yii/framework/base/CApplication.php(438): CModule->getComponent('db')
+#4 /home/u989698732/public_html/yii/framework/db/ar/CActiveRecord.php(623): CApplication->getDb()
+#5 /home/u989698732/public_html/yii/framework/db/ar/CActiveRecord.php(2309): CActiveRecord->getDbConnection()
+#6 /home/u989698732/public_html/yii/framework/db/ar/CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(Subastas))
+#7 /home/u989698732/public_html/protected/models/Subastas.php(33): CActiveRecord::model('Subastas')
+#8 /home/u989698732/public_html/protected/controllers/SubastasController.php(430): Subastas::model()
+#9 /home/u989698732/public_html/protected/controllers/SubastasController.php(242): SubastasController->loadModel('113')
+#10 /home/u989698732/public_html/yii/framework/web/actions/CInlineAction.php(49): SubastasController->actionEjecutar2()
+#11 /home/u989698732/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /home/u989698732/public_html/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#13 /home/u989698732/public_html/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#14 /home/u989698732/public_html/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#15 /home/u989698732/public_html/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#16 /home/u989698732/public_html/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#17 /home/u989698732/public_html/yii/framework/web/CController.php(291): CFilterChain->run()
+#18 /home/u989698732/public_html/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#19 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(282): CController->run('ejecutar2')
+#20 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('subastas/ejecut...')
+#21 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#22 /home/u989698732/public_html/index.php(13): CApplication->run()
+#23 {main}
+REQUEST_URI=/subastas/ejecutar2?id=113&i=88&j=588&numIteraciones=200&dir=PZ%20EXPO%206%206%20%20%20;%2050018%20ZARAGOZA
+HTTP_REFERER=http://plansubastas.esy.es/subastas/ejecutar2?id=113&i=88&j=588&numIteraciones=200&dir=PZ%20EXPO%206%206%20%20%20;%2050018%20ZARAGOZA
+---
+2015/12/11 17:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/helvetica-neue-bold.woff"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/helvetica-n...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/helvetica-neue-bold.woff
+HTTP_REFERER=http://plansubastas.esy.es/css/main.css
+---
+2015/12/11 17:11:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/helvetica-neue-bold.woff"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/helvetica-n...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/helvetica-neue-bold.woff
+HTTP_REFERER=http://plansubastas.esy.es/css/main.css
+---
+2015/12/11 17:11:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/helvetica-neue-bold.ttf"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/helvetica-n...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/helvetica-neue-bold.ttf
+HTTP_REFERER=http://plansubastas.esy.es/css/main.css
+---
+2015/12/11 17:11:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/helvetica-neue-bold.ttf"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/helvetica-n...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/helvetica-neue-bold.ttf
+HTTP_REFERER=http://plansubastas.esy.es/css/main.css
+---
+2015/12/11 17:23:17 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.hostinger.es' (111 "Connection refused")' in /home/u989698732/public_html/yii/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /home/u989698732/public_html/yii/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /home/u989698732/public_html/yii/framework/base/CModule.php(387): CDbConnection->init()
+#3 /home/u989698732/public_html/yii/framework/base/CApplication.php(438): CModule->getComponent('db')
+#4 /home/u989698732/public_html/yii/framework/db/ar/CActiveRecord.php(623): CApplication->getDb()
+#5 /home/u989698732/public_html/yii/framework/db/ar/CActiveRecord.php(2309): CActiveRecord->getDbConnection()
+#6 /home/u989698732/public_html/yii/framework/db/ar/CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(Subastas))
+#7 /home/u989698732/public_html/protected/models/Subastas.php(33): CActiveRecord::model('Subastas')
+#8 /home/u989698732/public_html/protected/controllers/SubastasController.php(396): Subastas::model()
+#9 /home/u989698732/public_html/yii/framework/web/actions/CInlineAction.php(49): SubastasController->actionPdfFechaAsc()
+#10 /home/u989698732/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /home/u989698732/public_html/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 /home/u989698732/public_html/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#13 /home/u989698732/public_html/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 /home/u989698732/public_html/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 /home/u989698732/public_html/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 /home/u989698732/public_html/yii/framework/web/CController.php(291): CFilterChain->run()
+#17 /home/u989698732/public_html/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(282): CController->run('pdfFechaAsc')
+#19 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('subastas/pdfFec...')
+#20 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#21 /home/u989698732/public_html/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/subastas/pdfFechaAsc
+HTTP_REFERER=http://plansubastas.esy.es/subastas/admin
+---
+2015/12/11 17:23:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/12/11 17:23:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://plansubastas.esy.es/subastas/pdfFechaAsc
+---
+2015/12/11 17:23:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2015/12/11 20:23:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/helvetica-neue-bold.woff"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/helvetica-n...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/helvetica-neue-bold.woff
+HTTP_REFERER=http://plansubastas.esy.es/css/main.css
+---
+2015/12/11 20:23:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/helvetica-neue-bold.ttf"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/helvetica-n...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/helvetica-neue-bold.ttf
+HTTP_REFERER=http://plansubastas.esy.es/css/main.css
+---
+2015/12/11 20:28:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/helvetica-neue-bold.woff"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/helvetica-n...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/helvetica-neue-bold.woff
+HTTP_REFERER=http://plansubastas.esy.es/css/main.css
+---
+2015/12/11 20:28:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/helvetica-neue-bold.ttf"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/helvetica-n...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/css/helvetica-neue-bold.ttf
+HTTP_REFERER=http://plansubastas.esy.es/css/main.css
+---
+2015/12/11 20:38:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/subastas.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/subasta...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/subastas.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/exec
+---
+2015/12/11 20:38:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "estilos/buscar.css"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('estilos/buscar....')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/estilos/buscar.css
+HTTP_REFERER=http://plansubastas.esy.es/subastas/exec
+---
+2015/12/11 20:38:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logoMPR2012.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logoMP...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logoMPR2012.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/exec
+---
+2015/12/11 20:38:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logo_subastas_2.png"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/logo_s...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/logo_subastas_2.png
+HTTP_REFERER=http://plansubastas.esy.es/subastas/exec
+---
+2015/12/11 20:38:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/botonAcceso_callout_black.gif"' in /home/u989698732/public_html/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/u989698732/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('imagenes/botonA...')
+#1 /home/u989698732/public_html/yii/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/u989698732/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/imagenes/botonAcceso_callout_black.gif
+HTTP_REFERER=http://plansubastas.esy.es/subastas/exec
+---
+2016/02/14 17:20:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/helvetica-neue-bold.woff"' in C:\xampp\htdocs\subastasHostinger\public_html\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\subastasHostinger\public_html\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('css/helvetica-n...')
+#1 C:\xampp\htdocs\subastasHostinger\public_html\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\subastasHostinger\public_html\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/subastasHostinger/public_html/css/helvetica-neue-bold.woff
+HTTP_REFERER=http://localhost/subastasHostinger/public_html/css/main.css
+---
+2016/02/14 17:20:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/helvetica-neue-bold.ttf"' in C:\xampp\htdocs\subastasHostinger\public_html\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\subastasHostinger\public_html\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('css/helvetica-n...')
+#1 C:\xampp\htdocs\subastasHostinger\public_html\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\subastasHostinger\public_html\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/subastasHostinger/public_html/css/helvetica-neue-bold.ttf
+HTTP_REFERER=http://localhost/subastasHostinger/public_html/css/main.css
+---

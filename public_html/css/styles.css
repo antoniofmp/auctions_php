@@ -1,0 +1,711 @@
+/* ============================== */
+
+
+/* ! Layout for desktop version   */
+
+
+/* ============================== */
+
+/*@font-face {
+  font-family: 'Iberia-head';
+  src: url('../../fonts/iberia/iberia-headlineWEB.eot');
+  src: url('../../fonts/iberia/iberia-headlineWEB.eot?#iefix') format('embedded-opentype'), url('../../fonts/iberia/iberia-headlineWEB.woff') format('woff'), url('../../fonts/iberia/iberia-headlineWEB.ttf') format('truetype'), url('../../fonts/iberia/iberia-headlineWEB.svg#Iberia_head') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Iberia';
+  src: url('../../fonts/iberia/iberia_text-regularWEB.eot');
+  src: url('../../fonts/iberia/iberia_text-regularWEB.eot?#iefix') format('embedded-opentype'), url('../../fonts/iberia/iberia_text-regularWEB.woff') format('woff'), url('../../fonts/iberia/iberia_text-regularWEB.ttf') format('truetype'), url('../../fonts/iberia/iberia_text-regularWEB.svg#Iberia') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Iberia';
+  src: url('../../fonts/iberia/iberia_text-boldWEB.eot');
+  src: url('../../fonts/iberia/iberia_text-boldWEB.eot?#iefix') format('embedded-opentype'), url('../../fonts/iberia/iberia_text-boldWEB.woff') format('woff'), url('../../fonts/iberia/iberia_text-boldWEB.ttf') format('truetype'), url('../../fonts/iberia/iberia_text-boldWEB.svg#Iberiabold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Iberia';
+  src: url('../../fonts/iberia/iberia_text-bold_italicWEB.eot');
+  src: url('../../fonts/iberia/iberia_text-bold_italicWEB.eot?#iefix') format('embedded-opentype'), url('../../fonts/iberia/iberia_text-bold_italicWEB.woff') format('woff'), url('../../fonts/iberia/iberia_text-bold_italicWEB.ttf') format('truetype'), url('../../fonts/iberia/iberia_text-bold_italicWEB.svg#Iberiabolditalic') format('svg');
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Iberia';
+  src: url('../../fonts/iberia/iberia_text-italicWEB.eot');
+  src: url('../../fonts/iberia/iberia_text-italicWEB.eot?#iefix') format('embedded-opentype'), url('../../fonts/iberia/iberia_text-italicWEB.woff') format('woff'), url('../../fonts/iberia/iberia_text-italicWEB.ttf') format('truetype'), url('../../fonts/iberia/iberia_text-italicWEB.svg#Iberiaitalic') format('svg');
+  font-weight: normal;
+  font-style: italic;
+}*/
+body {
+  color: #fff;
+  font-family: 'Iberia', Verdana, Geneva, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Iberia-head', Verdana, Geneva, sans-serif;
+  font-weight: normal;
+}
+#preloader_total {
+  position: fixed;
+  z-index: 9999;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #fff;
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+#preloader_total img {
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.container {
+  position: relative;
+}
+#main {
+  background-color: #fff;
+  background-attachment: fixed;
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-image: url('../images/bgr2.jpg');
+  position: relative;
+}
+.main {
+  background-color: #fff;
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-image: url('../images/bgr.jpg');
+  position: relative;
+  min-height: 1030px;
+}
+.main2 {
+  background-image: url('../images/bgr2.jpg');
+}
+.footer {
+  background-color: #464241;
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+  font-family: Verdana;
+  padding: 12px 0;
+}
+.footer p {
+  margin: 0 20px;
+}
+#modulo {
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-image: url('../images/bgr-modulo-landing.png');
+  width: 392px;
+  height: 371px;
+  display: block;
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  padding: 58px 45px;
+  font-size: 18px;
+}
+#modulo h1 {
+  color: #fcd100;
+  font-size: 46px;
+}
+#modulo p {
+  margin-right: 30px;
+}
+#modulo p:first-of-type {
+  text-align: right;
+  margin-bottom: 10px;
+}
+#modulo p:nth-of-type(2) {
+  margin-top: 10px;
+}
+#modulo p:nth-of-type(3) {
+  margin: 15px 0;
+}
+.btn {
+  background-color: #fff;
+  color: #cf182c;
+  border: 0;
+  border-radius: 5px;
+  padding: 12px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Iberia-head', Verdana, Geneva, sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  -webkit-box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.75);
+  transition: 0.4s;
+}
+.btn:hover {
+  background-color: #a81820;
+  color: #fff;
+}
+.main2 header {
+  height: 92px;
+  background-color: transparent;
+  padding: 0 40px;
+  background-image: url('../images/bgr-header.png');
+  background-position: left top;
+  background-repeat: repeat-x;
+}
+.main2 header h1 {
+  margin: 0;
+  padding: 0;
+  line-height: 92px;
+  font-size: 50px;
+  color: #fcd100;
+  background-image: url('../images/logo-iberia.png');
+  background-position: right center;
+  background-repeat: no-repeat;
+}
+.main2 aside {
+  height: 45px;
+  padding: 0 40px;
+  background-color: #efefef;
+  color: #cf182c;
+  text-align: right;
+  ;
+}
+.main2 aside ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.main2 aside ul li {
+  display: inline-block;
+  border-right: 1px solid #cf182c;
+  margin: 10px 0;
+  text-align: center;
+  min-width: 85px;
+}
+.main2 aside ul li:last-of-type {
+  border: 0;
+}
+.main2 aside ul li a {
+  color: #cf182c;
+  font-size: 16px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.main2 aside ul li a:hover, .main2 aside ul li.active a {
+  font-weight: bold;
+  letter-spacing: -0.4;
+}
+.main2 nav {
+  text-align: right;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 20px;
+  width: 50%;
+  margin-left: 50%;
+}
+.main2 nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.main2 nav ul li {
+  display: inline-block;
+  font-family: 'Iberia-head', Verdana, Geneva, sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  margin-left: 25px;
+}
+.main2 nav ul li a {
+  font-family: 'Iberia-head', Verdana, Geneva, sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  text-decoration: none;
+  color: #fff;
+}
+.main2 nav ul li a:hover {
+  color: #fcd100;
+}
+#maquina {
+  text-align: center;
+  display: block;
+  font-family: 'Iberia-head', Verdana, Geneva, sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  color: #fff;
+  position: relative;
+  margin: 0 auto;
+  float: none;
+}
+.main2 #maquina article {
+  margin: 20px auto;
+  clear: both;
+  overflow: auto;
+  background-color: #d8182d;
+  padding: 20px;
+}
+#tirador {
+  position: absolute;
+  bottom: 75px;
+  right: 12px;
+  background-image: url("../images/img-tirador.png");
+  width: 56px;
+  height: 135px;
+}
+#container-machine {
+  float: none;
+  margin: 0;
+  width: 100%;
+  clear: both;
+  position: relative;
+  background-color: #aa0918;
+}
+.machineContainer {
+  overflow: hidden;
+  background-color: #aa0918;
+  position: relative;
+  border: 10px solid #aa0918;
+  margin: 20px 0;
+  float: none;
+  width: 400px;
+}
+.machineContainer.success {
+  border: 10px solid #fcd100;
+}
+.slotMachine {
+  width: 33.33333333% !important;
+  height: 250px;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  text-align: center;
+  background-color: #ffffff;
+  float: left !important;
+}
+.machineContainer .maskMachine {
+  background-image: url("../images/bgr-over-machine-grey.png");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  top: 50%;
+  margin-top: -7.5px;
+  left: 0;
+  width: 100%;
+  height: 15px;
+}
+.machineContainer.success .maskMachine {
+  background-image: url("../images/bgr-over-machine-red.png");
+}
+.machineResult {
+  color: #fff;
+  text-align: center;
+  font-weight: 900;
+}
+.noBorder {
+  border: none !important;
+  background: transparent !important;
+}
+.slotMachine .slot {
+  height: 100px;
+  display: block;
+  background-size: 100px 100px;
+  background-color: #ececec;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+#machine1.slotMachine .slot {
+  border-top: 8px solid #d1d1d1;
+  border-right: 4px solid #d1d1d1;
+  border-bottom: 8px solid #d1d1d1;
+  border-left: 8px solid #d1d1d1;
+}
+#machine2.slotMachine .slot {
+  border-top: 8px solid #d1d1d1;
+  border-right: 4px solid #d1d1d1;
+  border-bottom: 8px solid #d1d1d1;
+  border-left: 4px solid #d1d1d1;
+}
+#machine3.slotMachine .slot {
+  border-top: 8px solid #d1d1d1;
+  border-right: 8px solid #d1d1d1;
+  border-bottom: 8px solid #d1d1d1;
+  border-left: 4px solid #d1d1d1;
+}
+.slot1 {
+  background-image: url("../images/slot1.png");
+}
+.slot2 {
+  background-image: url("../images/slot2.png");
+}
+.slot3 {
+  background-image: url("../images/slot3.png");
+}
+.slot4 {
+  background-image: url("../images/slot4.png");
+}
+.slot5 {
+  background-image: url("../images/slot5.png");
+}
+.slot6 {
+  background-image: url("../images/slot6.png");
+}
+.slot7 {
+  background-image: url("../images/slot7.png");
+}
+.slot8 {
+  background-image: url("../images/slot8.png");
+}
+.slot9 {
+  background-image: url("../images/slot9.png");
+}
+.slot10 {
+  background-image: url("../images/slot10.png");
+}
+.main #oportunidades {
+  margin: 33px 22px;
+}
+.main2 #oportunidades h2 {
+  font-family: 'Iberia-head', Verdana, Geneva, sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  color: #fff;
+  width: 65.4%;
+  margin: 0 auto;
+}
+.main #oportunidades a, .main #oportunidades .masops {
+  display: block;
+  height: 170px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: #fff;
+  position: relative;
+  background-repeat: no-repeat;
+  text-decoration: none;
+  transition: 0.4s;
+}
+.main #oportunidades #iberiaplus {
+  background-image: url('../images/bgr-aside-iberiaplus.png');
+  background-position: top 30px left 20px
+}
+.main #oportunidades #invita {
+  background-image: url('../images/bgr-aside-invita.png');
+  background-position: top 30px left 20px
+}
+.main #oportunidades #twitter {
+  background-image: url('../images/bgr-aside-twitter.png');
+  background-position: top 25px left 20px
+}
+.main #oportunidades #facebook {
+  background-image: url('../images/bgr-aside-facebook.png');
+  background-position: top 25px left 20px
+}
+.main #oportunidades a p, .main #oportunidades .masops p {
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: normal;
+  font-size: 12px;
+  color: #7c7c7c;
+  margin: 0;
+  padding: 20px;
+}
+.main #oportunidades a p.points, .main #oportunidades .masops p.points {
+  font-family: 'Iberia-head', Verdana, Geneva, sans-serif;
+  font-weight: normal;
+  font-size: 40px;
+  color: #cf182c;
+  margin: 0 20px;
+  padding: 20px 0 10px 0;
+  border-bottom: 1px solid #ccc;
+  text-align: right;
+}
+.main #oportunidades .done, .main #oportunidades a:hover {
+  background-color: #cf182c;
+}
+.main #oportunidades .done p.points, .main #oportunidades a:hover p.points {
+  color: #fcd100;
+  border-bottom: 1px solid #fcd100;
+}
+.main #oportunidades .done p, .main #oportunidades a:hover p {
+  color: #fff;
+}
+.main #oportunidades .done#iberiaplus, .main #oportunidades a#iberiaplus:hover {
+  background-image: url('../images/bgr-aside-iberiaplus-hover.png');
+}
+.main #oportunidades .done#invita, .main #oportunidades a#invita:hover {
+  background-image: url('../images/bgr-aside-invita-hover.png');
+}
+.main #oportunidades .done#twitter, .main #oportunidades a#twitter:hover {
+  background-image: url('../images/bgr-aside-twitter-hover.png');
+}
+.main #oportunidades .done#facebook, .main #oportunidades a#facebook:hover {
+  background-image: url('../images/bgr-aside-facebook-hover.png');
+}
+.main #oportunidades .done#iberiaplus:after, .main #oportunidades .done#invita:after, .main #oportunidades .done#twitter:after, .main #oportunidades .done#facebook:after {
+  content: "¡Conseguido!";
+  position: absolute;
+  padding-top: 110px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: normal;
+  font-size: 12px;
+  color: #666;
+  width: 100%;
+  text-align: center;
+}
+.main2 #contenido {
+  margin: 50px auto 25px auto;
+  float: none;
+  position: relative;
+}
+.main2 #contenido h3 {
+  font-family: 'Iberia-head', Verdana, Geneva, sans-serif;
+  font-weight: normal;
+  font-size: 40px;
+  color: #fff;
+}
+.main2 #contenido .close {
+  position: absolute;
+  top: 15px;
+  right: 0;
+}
+.main2 #contenido article {
+  margin: 20px auto;
+  clear: both;
+  overflow: auto;
+  background-color: #d8182d;
+  padding: 20px;
+}
+.main2 #contenido article h4 {
+  font-family: 'Iberia-head', Verdana, Geneva, sans-serif;
+  font-weight: normal;
+  font-size: 30px;
+  color: #fff;
+}
+.main2 #contenido article img {
+  float: left;
+  margin-right: 20px;
+  padding-bottom: 10px;
+}
+.main2 #contenido article p {
+  font-family: 'Iberia-head', Verdana, Geneva, sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  color: #fff;
+}
+.main2 #contenido article.small {
+  width: 50%;
+  float: left;
+  margin-top: 20px;
+  overflow: hidden;
+  padding-bottom: 0px;
+  border-bottom: none;
+  clear: none;
+}
+.main2 #contenido article.small h4 {
+  font-size: 24px;
+}
+.main2 #contenido article.small img {
+  float: none;
+  margin-right: 0;
+}
+.main2 #contenido article.small:last-of-type {
+  text-align: right;
+}
+.main2 #contenido article.small:last-of-type h4 {
+  text-align: left;
+  margin-left: 28px;
+}
+.main2 #contenido article.small:last-of-type p {
+  text-align: left;
+  margin-left: 28px;
+}
+.main2 #contenido article.ayuda {
+  padding: 40px;
+  margin-top: 40px;
+}
+.main2 #contenido article.ayuda a {
+  text-decoration: underline;
+  color: #fff;
+}
+.main2 #contenido article.ayuda h3 {
+  font-size: 36px;
+  color: #fcd100;
+  margin-bottom: 20px;
+}
+.main2 #contenido article.ayuda p {
+  font-size: 18px;
+}
+.main2 #contenido article.ayuda img {
+  margin: 50px auto 10px;
+  float: none;
+}
+.main2 #contenido article.ayuda small {
+  text-align: right;
+  display: block;
+  font-size: 12px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+.main2 #contenido article form {
+  margin: 40px auto;
+  float: none;
+}
+.main2 #contenido article form label {
+  margin-bottom: 10px;
+  width: 100%;
+}
+.main2 #contenido article form input[type="text"], .main2 #contenido article form input[type="password"], .main2 #contenido article form input[type="email"] {
+  margin-bottom: 20px;
+  border: 0;
+  padding: 5px;
+  width: 100%;
+  color: #000;
+}
+.main2 #contenido article form input[type="submit"] {
+  width: 100%;
+}
+.ganadores {
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  float: none;
+}
+.ganadores li {
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #fff;
+}
+.main2 #contenido article.ayuda p.ganador_nombre {
+  font-size: 22px;
+  color: #fcd100;
+  margin-bottom: 10px;
+}
+.main2 #contenido article.ayuda p.ganador_premio {
+  font-size: 40px;
+  color: #fff;
+}
+#oportunidades_txt {
+  background-image: url('../images/bgr-bubble.png');
+  background-position: top left;
+  background-repeat: no-repeat;
+  color: #cf182c;
+  padding: 5px 0 0 0;
+  text-align: center;
+  margin: 10px 0 0 0;
+  width: 215px;
+  height: 42px;
+  float: none;
+}
+#oportunidades_txt.no_ops {
+  background: none;
+  color: #fff;
+  padding: 0;
+  text-align: left;
+  margin: 10px 0 0 0;
+  width: auto;
+  height: auto;
+  float: none;
+}
+
+/* ============================= */
+
+
+/* ! Layout for mobile version   */
+
+
+/* ============================= */
+
+@media handheld, only screen and (max-width: 768px) {
+  .main {
+    background-size: cover;
+    min-height: 100%;
+  }
+  .main2 header {
+    padding: 0 10px;
+  }
+  .main2 header h1 {
+    font-size: 30px;
+  }
+  .main2 aside {
+    padding: 0;
+  }
+  .main2 nav {
+    width: calc(50% - 10px);
+    margin-right: 10px;
+  }
+  .main2 #contenido {
+    margin: 10px auto;
+    overflow: auto;
+  }
+  .main2 #contenido article.ayuda {
+    margin-top: 0;
+  }
+  #modulo {
+    background-size: cover;
+    width: 80%;
+    height: auto;
+    position: relative;
+    margin: 20px auto;
+    font-size: 14px;
+    padding: 40px 10px 100px 10px;
+    float: none;
+    top: initial;
+    right: initial;
+  }
+  .main #oportunidades {
+    margin: 0 10px;
+  }
+  .main2 #oportunidades h2 {
+    width: 100%;
+  }
+  .main #oportunidades a, .main #oportunidades .masops {
+    height: auto;
+  }
+  .main #oportunidades #invita {
+    display: none;
+  }
+  .machineContainer {
+    width: 240px;
+  }
+}
+
+@media handheld, only screen and (max-width: 360px) {
+  .main2 aside ul li {
+    min-width: 75px;
+  }
+  .main2 aside ul li a {
+    font-size: 12px;
+  }
+  .main2 nav ul li a {
+    font-size: 13px;
+  }
+  .machineContainer {
+    width: 210px;
+  }
+}
+
+@media handheld, only screen and (max-width: 320px) {
+  .machineContainer {
+    width: 180px;
+  }
+}
+
+/* ========================================== */
+
+
+/* ! Provide higher res assets for iPhone 4   */
+
+
+/* ========================================== */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  /*	.logo {
+                    background: url(logo2x.jpg) no-repeat;
+                    background-size: 212px 303px;
+            }*/
+}
